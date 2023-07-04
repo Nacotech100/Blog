@@ -4,13 +4,13 @@ import { getStorage } from "firebase/storage";
 import { getAuth } from "firebase/auth";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDBcwpitLqmJcgx70vFOTgqsHWRS3sNKyo",
-  authDomain: "blog-d4cd9.firebaseapp.com",
-  projectId: "blog-d4cd9",
-  storageBucket: "blog-d4cd9.appspot.com",
-  messagingSenderId: "83689338465",
-  appId: "1:83689338465:web:d1d0bc487ad26989999c20",
-  measurementId: "G-KYQ3ZE0Z98"
+  apiKey: "AIzaSyCO5FV8AHDSMQ4UMqrXWLH9zbmP33-7YyU",
+  authDomain: "nacoblog-c1276.firebaseapp.com",
+  projectId: "nacoblog-c1276",
+  storageBucket: "nacoblog-c1276.appspot.com",
+  messagingSenderId: "864504699723",
+  appId: "1:864504699723:web:0d19e5d6089460190666ce",
+  measurementId: "G-LYYT7J41YS"
 };
 
 const app = initializeApp(firebaseConfig);
